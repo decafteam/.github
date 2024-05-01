@@ -22,6 +22,6 @@
 
 The best solution to on- and off-ramp using USDC in more than 350k countries. This includes remittances and money transfers!
 
-## 🛒 Decaf Checkout
+## 🛒 Decaf Checkout (deprecated)
 
 A complete POS solution, easy and accessible for everyone. The simplest way to accept USDC in your business. We offer Crypto payments, NFT gated commerce, Full integration with Square, Wallet management, Sales dashboard, (Soon) Cash/Crypto ramp,
