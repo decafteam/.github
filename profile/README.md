@@ -16,7 +16,4 @@
 [url-twitter]: https://twitter.com/Decaf_so
 [url-website]: https://decaf.so
 
-# Decaf Inc.
-
-Alternative banking option with crypto rails.
 
