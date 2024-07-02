@@ -20,7 +20,7 @@
 
 ## 📲 Decaf Wallet
 
-The best solution to on- and off-ramp using USDC in more than 350k countries. This includes remittances and money transfers!
+Alternative banking option with crypto rails.
 
 ## 🛒 Decaf Checkout (deprecated)
 
